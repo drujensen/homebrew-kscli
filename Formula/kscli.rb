@@ -1,8 +1,8 @@
 class Kscli < Formula
   desc "kscli utility will manage your Kakfa Schema Registry"
   homepage "https://github.com/drujensen/kscli"
-  url "https://github.com/drujensen/kscli/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "edc0bc0e220020d7cb785ea888c68e410207deb75910db173007c480e8cbcf52"
+  url "https://github.com/drujensen/kscli/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "7573f168cd8a111b850b00c15575488bc05464e4ca1949cae9e94934ef6180ac"
 
   depends_on "rust"
 
